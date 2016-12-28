@@ -1,0 +1,9 @@
+c:\users\jean\documents\visual studio 2015\Projects\ExerciseNotePad\ExerciseNotePad\bin\Debug\ExerciseNotePad.exe.config
+c:\users\jean\documents\visual studio 2015\Projects\ExerciseNotePad\ExerciseNotePad\obj\Debug\ExerciseNotePad.csprojResolveAssemblyReference.cache
+c:\users\jean\documents\visual studio 2015\Projects\ExerciseNotePad\ExerciseNotePad\obj\Debug\ExerciseNotePad.Properties.Resources.resources
+c:\users\jean\documents\visual studio 2015\Projects\ExerciseNotePad\ExerciseNotePad\obj\Debug\ExerciseNotePad.csproj.GenerateResource.Cache
+c:\users\jean\documents\visual studio 2015\Projects\ExerciseNotePad\ExerciseNotePad\obj\Debug\ExerciseNotePad.FindForm.resources
+c:\users\jean\documents\visual studio 2015\Projects\ExerciseNotePad\ExerciseNotePad\bin\Debug\ExerciseNotePad.exe
+c:\users\jean\documents\visual studio 2015\Projects\ExerciseNotePad\ExerciseNotePad\bin\Debug\ExerciseNotePad.pdb
+c:\users\jean\documents\visual studio 2015\Projects\ExerciseNotePad\ExerciseNotePad\obj\Debug\ExerciseNotePad.exe
+c:\users\jean\documents\visual studio 2015\Projects\ExerciseNotePad\ExerciseNotePad\obj\Debug\ExerciseNotePad.pdb
